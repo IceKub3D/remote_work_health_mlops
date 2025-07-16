@@ -1,0 +1,12 @@
+# Data and model directories (managed by DVC)
+data/
+models/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
