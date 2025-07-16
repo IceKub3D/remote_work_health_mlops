@@ -1,0 +1,39 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+pip_log.txt
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Data and models (versioned with DVC)
+data/
+models/
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# DVC cache and temporary files
+.dvc/cache/
+.dvc/tmp/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
