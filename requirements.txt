@@ -6,3 +6,4 @@ pydantic
 joblib
 dvc
 pytest
+kaggle

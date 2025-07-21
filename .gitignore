@@ -12,7 +12,7 @@ pip_log.txt
 env/
 venv/
 
-# Data and models (versioned with DVC)
+# Data and modelas (versioned with DVC)
 data/**/*.*
 !data/**/*.dvc
 models/**/*.*
