@@ -1,0 +1,5 @@
+outs:
+- md5: 94a5f7b2cfec6fbb2b1eb6eb9054bd0a
+  size: 873
+  hash: md5
+  path: mental_imputer.joblib
