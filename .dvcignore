@@ -1,7 +1,3 @@
-# Data and model directories (managed by DVC)
-data/
-models/
-
 # Temporary files
 *.tmp
 *.bak
